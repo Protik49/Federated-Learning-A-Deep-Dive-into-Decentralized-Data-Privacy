@@ -605,7 +605,7 @@ class FederatedServer:
 
 </details>
 
-## Conclusion
+## Finally..
 
 Federated learning represents a transformative approach to machine learning that addresses critical privacy concerns while enabling collaborative model training. As the field continues to evolve, we can expect:
 

@@ -1,6 +1,6 @@
 # Federated Learning: A Deep Dive into Decentralized Data & Privacy
 
-![Federated Learning Network Diagram](https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=1200&h=600)
+![Federated Learning Network Diagram](https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13677-022-00377-4/MediaObjects/13677_2022_377_Fig4_HTML.png)
 *Federated learning network architecture*
 
 <details>
